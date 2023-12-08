@@ -3,13 +3,14 @@
     .home .home-banner-1,
     .home .home-banner-2{
         background-position: 65% center;
-        min-height: 500px;
+        min-height: 550px;
     }
     .home .home-banner .home-banner-text{
         transform: translate(-80% -50%);
     }
         /* special css */
          /* testimonial css */
+         
 }
 @media (max-width:991px){
     .home .home-banner .home-banner-text{
